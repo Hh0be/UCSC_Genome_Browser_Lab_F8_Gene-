@@ -56,7 +56,6 @@ The gene structure was visualized using the **GENCODE V50** and **RefSeq Curated
 
 ### Screenshot
 
-![Figure 1: Kulang
 *Figure 1: UCSC Genome Browser overview of the F8 gene on chromosome X (GRCh38/hg38), showing exon-intron structure and annotation tracks.*
 
 ---
