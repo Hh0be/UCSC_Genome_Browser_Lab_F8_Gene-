@@ -1,7 +1,7 @@
 # F8 Gene Bioinformatics Analysis
 
 **Student:** Hobe Lagurin Palopalo  
-**Course:** Cell and Molecular Biology - Laboratory 
+**Course:** Cell and Molecular Biology - Laboratory  
 **Date:** September 2026  
 **Genome Assembly:** GRCh38/hg38
 
