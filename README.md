@@ -83,7 +83,6 @@ Zooming into **chrX:154,890,000–154,925,000** confirmed this region's high var
 
 ### Screenshot
 
-![Figure 2: Kulang
 *Figure 2: Zoomed view of intron 22 (chrX:154,890,000–154,925,000), highlighting high ClinVar/OMIM variant density and RepeatMasker annotations.*
 
 ---
@@ -120,7 +119,6 @@ Both mechanisms abolish normal Factor VIII function but through different extent
 
 ### Screenshot
 
-![Figure 3: Kulang
 *Figure 3: OMIM Allele variant 300841.0228 detail page, showing p.Ser2170Ter nonsense mutation and Hemophilia A phenotype.*
 
 ---
@@ -150,8 +148,6 @@ This result is **counterintuitive** since Factor VIII is primarily synthesized b
 This discrepancy illustrates a fundamental limitation of bulk RNA-seq: **cell-type specificity is masked by tissue composition**. This is precisely why we need the **Cell Browser activity**—to resolve F8 expression at **single-cell resolution** and identify the exact endothelial subpopulations responsible for Factor VIII synthesis.
 
 ### Screenshot
-
-![Figure 4: Kulang
 
 *Figure 4: GTEx Gene V8 expression profile of F8 across 54 human tissues, showing highest expression in adipose and artery tissues.*
 
